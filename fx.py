@@ -6,6 +6,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from alpha_vantage.foreignexchange import ForeignExchange
 from datetime import datetime, timedelta
+#NOTE: numpyが入ってない
 
 # Alpha Vantage APIキー
 api_key = 'YOUR API KEY'
